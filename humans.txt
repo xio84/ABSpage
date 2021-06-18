@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Oksidian Tafly -- Developer -- @oksidiantafly
 
 # THANKS
 
-    <name>
+    Akhyar Tafly
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
+    CSS3, HTML5, Bootstrap5
     Apache Server Configs, jQuery, Modernizr, Normalize.css
